@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\VS Tasks\Switch\Swtich\Swtich\bin\Debug\net6.0\Swtich.exe
+C:\Users\Administrator\Desktop\VS Tasks\Switch\Swtich\Swtich\bin\Debug\net6.0\Swtich.deps.json
+C:\Users\Administrator\Desktop\VS Tasks\Switch\Swtich\Swtich\bin\Debug\net6.0\Swtich.runtimeconfig.json
+C:\Users\Administrator\Desktop\VS Tasks\Switch\Swtich\Swtich\bin\Debug\net6.0\Swtich.dll
+C:\Users\Administrator\Desktop\VS Tasks\Switch\Swtich\Swtich\bin\Debug\net6.0\Swtich.pdb
+C:\Users\Administrator\Desktop\VS Tasks\Switch\Swtich\Swtich\obj\Debug\net6.0\Swtich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\VS Tasks\Switch\Swtich\Swtich\obj\Debug\net6.0\Swtich.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\VS Tasks\Switch\Swtich\Swtich\obj\Debug\net6.0\Swtich.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\VS Tasks\Switch\Swtich\Swtich\obj\Debug\net6.0\Swtich.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VS Tasks\Switch\Swtich\Swtich\obj\Debug\net6.0\Swtich.dll
+C:\Users\Administrator\Desktop\VS Tasks\Switch\Swtich\Swtich\obj\Debug\net6.0\refint\Swtich.dll
+C:\Users\Administrator\Desktop\VS Tasks\Switch\Swtich\Swtich\obj\Debug\net6.0\Swtich.pdb
+C:\Users\Administrator\Desktop\VS Tasks\Switch\Swtich\Swtich\obj\Debug\net6.0\Swtich.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\VS Tasks\Switch\Swtich\Swtich\obj\Debug\net6.0\ref\Swtich.dll

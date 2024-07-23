@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\VS Tasks\AddFirstCharacterToBeginningAndEnd\AddFirstCharacter\AddFirstCharacter\bin\Debug\net6.0\AddFirstCharacter.exe
+C:\Users\Administrator\Desktop\VS Tasks\AddFirstCharacterToBeginningAndEnd\AddFirstCharacter\AddFirstCharacter\bin\Debug\net6.0\AddFirstCharacter.deps.json
+C:\Users\Administrator\Desktop\VS Tasks\AddFirstCharacterToBeginningAndEnd\AddFirstCharacter\AddFirstCharacter\bin\Debug\net6.0\AddFirstCharacter.runtimeconfig.json
+C:\Users\Administrator\Desktop\VS Tasks\AddFirstCharacterToBeginningAndEnd\AddFirstCharacter\AddFirstCharacter\bin\Debug\net6.0\AddFirstCharacter.dll
+C:\Users\Administrator\Desktop\VS Tasks\AddFirstCharacterToBeginningAndEnd\AddFirstCharacter\AddFirstCharacter\bin\Debug\net6.0\AddFirstCharacter.pdb
+C:\Users\Administrator\Desktop\VS Tasks\AddFirstCharacterToBeginningAndEnd\AddFirstCharacter\AddFirstCharacter\obj\Debug\net6.0\AddFirstCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\VS Tasks\AddFirstCharacterToBeginningAndEnd\AddFirstCharacter\AddFirstCharacter\obj\Debug\net6.0\AddFirstCharacter.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\VS Tasks\AddFirstCharacterToBeginningAndEnd\AddFirstCharacter\AddFirstCharacter\obj\Debug\net6.0\AddFirstCharacter.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\VS Tasks\AddFirstCharacterToBeginningAndEnd\AddFirstCharacter\AddFirstCharacter\obj\Debug\net6.0\AddFirstCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VS Tasks\AddFirstCharacterToBeginningAndEnd\AddFirstCharacter\AddFirstCharacter\obj\Debug\net6.0\AddFirstCharacter.dll
+C:\Users\Administrator\Desktop\VS Tasks\AddFirstCharacterToBeginningAndEnd\AddFirstCharacter\AddFirstCharacter\obj\Debug\net6.0\refint\AddFirstCharacter.dll
+C:\Users\Administrator\Desktop\VS Tasks\AddFirstCharacterToBeginningAndEnd\AddFirstCharacter\AddFirstCharacter\obj\Debug\net6.0\AddFirstCharacter.pdb
+C:\Users\Administrator\Desktop\VS Tasks\AddFirstCharacterToBeginningAndEnd\AddFirstCharacter\AddFirstCharacter\obj\Debug\net6.0\AddFirstCharacter.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\VS Tasks\AddFirstCharacterToBeginningAndEnd\AddFirstCharacter\AddFirstCharacter\obj\Debug\net6.0\ref\AddFirstCharacter.dll

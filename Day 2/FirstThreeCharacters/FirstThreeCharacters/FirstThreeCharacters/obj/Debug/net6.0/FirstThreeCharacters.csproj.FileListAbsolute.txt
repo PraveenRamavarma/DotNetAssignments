@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\VS Tasks\FirstThreeCharacters\FirstThreeCharacters\FirstThreeCharacters\obj\Debug\net6.0\FirstThreeCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\VS Tasks\FirstThreeCharacters\FirstThreeCharacters\FirstThreeCharacters\obj\Debug\net6.0\FirstThreeCharacters.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\VS Tasks\FirstThreeCharacters\FirstThreeCharacters\FirstThreeCharacters\obj\Debug\net6.0\FirstThreeCharacters.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\VS Tasks\FirstThreeCharacters\FirstThreeCharacters\FirstThreeCharacters\obj\Debug\net6.0\FirstThreeCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VS Tasks\FirstThreeCharacters\FirstThreeCharacters\FirstThreeCharacters\bin\Debug\net6.0\FirstThreeCharacters.exe
+C:\Users\Administrator\Desktop\VS Tasks\FirstThreeCharacters\FirstThreeCharacters\FirstThreeCharacters\bin\Debug\net6.0\FirstThreeCharacters.deps.json
+C:\Users\Administrator\Desktop\VS Tasks\FirstThreeCharacters\FirstThreeCharacters\FirstThreeCharacters\bin\Debug\net6.0\FirstThreeCharacters.runtimeconfig.json
+C:\Users\Administrator\Desktop\VS Tasks\FirstThreeCharacters\FirstThreeCharacters\FirstThreeCharacters\bin\Debug\net6.0\FirstThreeCharacters.dll
+C:\Users\Administrator\Desktop\VS Tasks\FirstThreeCharacters\FirstThreeCharacters\FirstThreeCharacters\bin\Debug\net6.0\FirstThreeCharacters.pdb
+C:\Users\Administrator\Desktop\VS Tasks\FirstThreeCharacters\FirstThreeCharacters\FirstThreeCharacters\obj\Debug\net6.0\FirstThreeCharacters.dll
+C:\Users\Administrator\Desktop\VS Tasks\FirstThreeCharacters\FirstThreeCharacters\FirstThreeCharacters\obj\Debug\net6.0\refint\FirstThreeCharacters.dll
+C:\Users\Administrator\Desktop\VS Tasks\FirstThreeCharacters\FirstThreeCharacters\FirstThreeCharacters\obj\Debug\net6.0\FirstThreeCharacters.pdb
+C:\Users\Administrator\Desktop\VS Tasks\FirstThreeCharacters\FirstThreeCharacters\FirstThreeCharacters\obj\Debug\net6.0\FirstThreeCharacters.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\VS Tasks\FirstThreeCharacters\FirstThreeCharacters\FirstThreeCharacters\obj\Debug\net6.0\ref\FirstThreeCharacters.dll

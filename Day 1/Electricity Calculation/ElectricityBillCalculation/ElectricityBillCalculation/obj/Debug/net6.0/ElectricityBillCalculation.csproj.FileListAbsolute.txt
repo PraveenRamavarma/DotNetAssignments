@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\VS Tasks\Electricity Calculation\ElectricityBillCalculation\ElectricityBillCalculation\obj\Debug\net6.0\ElectricityBillCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\VS Tasks\Electricity Calculation\ElectricityBillCalculation\ElectricityBillCalculation\obj\Debug\net6.0\ElectricityBillCalculation.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\VS Tasks\Electricity Calculation\ElectricityBillCalculation\ElectricityBillCalculation\obj\Debug\net6.0\ElectricityBillCalculation.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\VS Tasks\Electricity Calculation\ElectricityBillCalculation\ElectricityBillCalculation\obj\Debug\net6.0\ElectricityBillCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VS Tasks\Electricity Calculation\ElectricityBillCalculation\ElectricityBillCalculation\bin\Debug\net6.0\ElectricityBillCalculation.exe
+C:\Users\Administrator\Desktop\VS Tasks\Electricity Calculation\ElectricityBillCalculation\ElectricityBillCalculation\bin\Debug\net6.0\ElectricityBillCalculation.deps.json
+C:\Users\Administrator\Desktop\VS Tasks\Electricity Calculation\ElectricityBillCalculation\ElectricityBillCalculation\bin\Debug\net6.0\ElectricityBillCalculation.runtimeconfig.json
+C:\Users\Administrator\Desktop\VS Tasks\Electricity Calculation\ElectricityBillCalculation\ElectricityBillCalculation\bin\Debug\net6.0\ElectricityBillCalculation.dll
+C:\Users\Administrator\Desktop\VS Tasks\Electricity Calculation\ElectricityBillCalculation\ElectricityBillCalculation\bin\Debug\net6.0\ElectricityBillCalculation.pdb
+C:\Users\Administrator\Desktop\VS Tasks\Electricity Calculation\ElectricityBillCalculation\ElectricityBillCalculation\obj\Debug\net6.0\ElectricityBillCalculation.dll
+C:\Users\Administrator\Desktop\VS Tasks\Electricity Calculation\ElectricityBillCalculation\ElectricityBillCalculation\obj\Debug\net6.0\refint\ElectricityBillCalculation.dll
+C:\Users\Administrator\Desktop\VS Tasks\Electricity Calculation\ElectricityBillCalculation\ElectricityBillCalculation\obj\Debug\net6.0\ElectricityBillCalculation.pdb
+C:\Users\Administrator\Desktop\VS Tasks\Electricity Calculation\ElectricityBillCalculation\ElectricityBillCalculation\obj\Debug\net6.0\ElectricityBillCalculation.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\VS Tasks\Electricity Calculation\ElectricityBillCalculation\ElectricityBillCalculation\obj\Debug\net6.0\ref\ElectricityBillCalculation.dll

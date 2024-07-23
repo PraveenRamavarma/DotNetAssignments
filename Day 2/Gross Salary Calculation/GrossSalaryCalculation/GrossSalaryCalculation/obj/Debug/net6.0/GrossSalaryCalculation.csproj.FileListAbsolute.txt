@@ -1,0 +1,28 @@
+C:\Users\Administrator\Desktop\VS Tasks\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\bin\Debug\net6.0\GrossSalaryCalculation.exe
+C:\Users\Administrator\Desktop\VS Tasks\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\bin\Debug\net6.0\GrossSalaryCalculation.deps.json
+C:\Users\Administrator\Desktop\VS Tasks\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\bin\Debug\net6.0\GrossSalaryCalculation.runtimeconfig.json
+C:\Users\Administrator\Desktop\VS Tasks\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\bin\Debug\net6.0\GrossSalaryCalculation.dll
+C:\Users\Administrator\Desktop\VS Tasks\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\bin\Debug\net6.0\GrossSalaryCalculation.pdb
+C:\Users\Administrator\Desktop\VS Tasks\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\GrossSalaryCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\VS Tasks\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\GrossSalaryCalculation.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\VS Tasks\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\GrossSalaryCalculation.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\VS Tasks\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\GrossSalaryCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VS Tasks\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\GrossSalaryCalculation.dll
+C:\Users\Administrator\Desktop\VS Tasks\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\refint\GrossSalaryCalculation.dll
+C:\Users\Administrator\Desktop\VS Tasks\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\GrossSalaryCalculation.pdb
+C:\Users\Administrator\Desktop\VS Tasks\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\GrossSalaryCalculation.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\VS Tasks\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\ref\GrossSalaryCalculation.dll
+C:\Users\Administrator\Desktop\VS Tasks\Day 2\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\bin\Debug\net6.0\GrossSalaryCalculation.exe
+C:\Users\Administrator\Desktop\VS Tasks\Day 2\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\bin\Debug\net6.0\GrossSalaryCalculation.deps.json
+C:\Users\Administrator\Desktop\VS Tasks\Day 2\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\bin\Debug\net6.0\GrossSalaryCalculation.runtimeconfig.json
+C:\Users\Administrator\Desktop\VS Tasks\Day 2\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\bin\Debug\net6.0\GrossSalaryCalculation.dll
+C:\Users\Administrator\Desktop\VS Tasks\Day 2\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\bin\Debug\net6.0\GrossSalaryCalculation.pdb
+C:\Users\Administrator\Desktop\VS Tasks\Day 2\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\GrossSalaryCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\VS Tasks\Day 2\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\GrossSalaryCalculation.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\VS Tasks\Day 2\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\GrossSalaryCalculation.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\VS Tasks\Day 2\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\GrossSalaryCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VS Tasks\Day 2\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\GrossSalaryCalculation.dll
+C:\Users\Administrator\Desktop\VS Tasks\Day 2\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\refint\GrossSalaryCalculation.dll
+C:\Users\Administrator\Desktop\VS Tasks\Day 2\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\GrossSalaryCalculation.pdb
+C:\Users\Administrator\Desktop\VS Tasks\Day 2\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\GrossSalaryCalculation.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\VS Tasks\Day 2\Gross Salary Calculation\GrossSalaryCalculation\GrossSalaryCalculation\obj\Debug\net6.0\ref\GrossSalaryCalculation.dll
